@@ -1,3 +1,8 @@
 Geminiani Mateo
 Heidenreich Alejandro
 Gagni Matias
+
+a)Lo actualizo utilizando el comando "git pull".
+b)No, no se puede, para ello alfa deberia forkear el repositorio ya forkeado de gamma.
+c)No, no se puede, para ello gamma deberia forkear el repositorio ya forkeado de alfa.
+d)Al actualizar al repositorio main se pierden los datos.
